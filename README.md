@@ -6,6 +6,7 @@ How many points do you think the highest scorer in the applicant pool will get? 
 Prompt:
 
 Splitting the Pot
+
 You’re going to play the following game with four other randomly selected Atlas applicants.
 
 Each of you will submit a number below. I will then take the sum of the five numbers submitted, and subtract that sum from 50. 
