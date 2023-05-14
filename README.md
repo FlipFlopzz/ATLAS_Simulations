@@ -1,8 +1,10 @@
 # ATLAS_Simulations
 For the ATLAS Application 2023 Question:
+
 How many points do you think the highest scorer in the applicant pool will get? Please be specific about any calculations and assumptions you make in producing this answer. (max. 500 characters)
 
 Prompt:
+
 Splitting the Pot
 You’re going to play the following game with four other randomly selected Atlas applicants.
 
